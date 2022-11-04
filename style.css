@@ -1,5 +1,15 @@
 h1{
-  text-align: center; color: #3d615b
+  text-align: center; color: black
+}
+
+.logo{
+  width: 50%
+}
+h2{
+  text-align: center;color: black
+}
+h3{
+  text-align: center;color: black
 }
 body{
 background-color:#f1ecdf
