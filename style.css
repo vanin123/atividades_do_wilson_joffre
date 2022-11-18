@@ -3,13 +3,14 @@ h1{
 }
 
 .logo{
-  width: 40%
+  width: 50%
 }
 h2{
   text-align: center;color: black
 }
 h3{
   text-align: center;color: black
+
 }
 body{
 background-color:#daf3ea
@@ -17,5 +18,16 @@ background-color:#daf3ea
 }
 p{text-align: center;}
 img{
-width: 40%;
-margin-left: 30%;
+width: 20%;
+margin-left: 60%;
+
+}
+
+#barbearia{
+
+}
+.menu{
+  position: relative;
+  bottom: 500px;
+  left: 380px;
+}
