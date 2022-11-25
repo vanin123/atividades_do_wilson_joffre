@@ -1,33 +1,54 @@
+.menu{
+  position: relative;
+  bottom: 500px;
+  left: 380px;
+}
+.logo{
+ border-top: 10px solid black;
+ border-radius: 10px solid black;
+ border-right: 10px solid black;
+ border-left: 10px solid black;
+ border-bottom: 10px solid black;
+
+}
+.logo{
+  margin-right: 60%
+}
+.logoimg{
+  width: 20%;
+  position: relative;
+  left: 30%
+}
+nav ul{
+  display: inline;
+  position: relative;
+  bottom: 110px;
+  left: 800px;
+}
 h1{
   text-align: center; color: black
 }
 
-.logo{
-  width: 50%
-}
+
 h2{
   text-align: center;color: black
 }
 h3{
   text-align: center;color: black
-
 }
+
+
 body{
 background-color:#daf3ea
 
 }
 p{text-align: center;}
-img{
+
+.preços{
 width: 20%;
 margin-left: 60%;
-
 }
 
 #barbearia{
 
-}
-.menu{
-  position: relative;
-  bottom: 500px;
-  left: 380px;
 }
